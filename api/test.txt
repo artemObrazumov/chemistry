@@ -1,0 +1,1 @@
+UPDATE `reagents` SET image='C:/OpenServer/domains/chemisttrys/uploads/yisb5y1u0kt57c.png' WHERE ID=3;
